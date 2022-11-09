@@ -1,14 +1,21 @@
-# planos_de_estudos_orange_inter
+# Desafio de Projeto sobre Git/Github
 
-Criando um plano de estudos simplificados para quem gostaria de iniciar na programação frondend. Este guie faz parte de uma mentoria da Digital Innovation One
+Criando um plano de estudos simplificados para quem gostaria de iniciar na programação frond-end. Este guia faz parte de uma mentoria da Digital Innovation One
 
+## Orange Tech+
 
 🌟: Objetivos:
 - Aprender a programar em HTML Básico
 - Aprender a estilização com CSS3
 - Aprender JS
+- Aprender Git/GitHub
+- Aprender React
 
-## Meta
+
+# Planejamento de curso
+
+## Meta do mês de Novembro:
+
 > Fazer o curso: [Introdução a Criação de Websites com HTML5 e CSS3](link)
 > Total do curso h: h/semana
 
